@@ -16,7 +16,7 @@ It focuses on improving data analysis skills including data cleaning, transforma
 * Python 🐍
 * Pandas 🐼
 * NumPy
-* Jupyter Notebook / VS Code
+* Jupyter Notebook / VS Code/Google colab
 
 ---
 
