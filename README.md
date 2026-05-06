@@ -24,6 +24,7 @@ It focuses on improving data analysis skills including data cleaning, transforma
 
 ```
 pandas/
+|──Daily_practice
 │──Leetcode_problems/
 │── problems/
 │   ├── filtering/
