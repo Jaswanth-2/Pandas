@@ -24,19 +24,9 @@ It focuses on improving data analysis skills including data cleaning, transforma
 
 ```
 pandas/
-|──Daily_practice
-│──Leetcode_problems/
-│── problems/
-│   ├── filtering/
-│   ├── grouping/
-│   ├── missing_values/
-│   ├── sorting/
-│
-│── projects/
-│   ├── analysis/
-│   ├── data_cleaning_project/
-│   ├── eda_project/
-│
+|── Daily_practice/
+│── Leetcode_problems/
+│── Projects/
 │── datasets/
 │── README.md
 ```
