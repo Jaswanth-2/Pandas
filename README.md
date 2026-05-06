@@ -33,7 +33,7 @@ pandas/
 │   ├── sorting/
 │
 │── projects/
-│   ├── sales_analysis/
+│   ├── analysis/
 │   ├── data_cleaning_project/
 │   ├── eda_project/
 │
